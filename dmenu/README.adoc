@@ -1,0 +1,25 @@
+== 🔍 dmenu
+
+faye's fork of the generic menu for X +
+my config has unused patches; it's nothing but laziness 😥
+
+=== 💄 aesthetics
+* input field theme
+* prompt theme
+* transparency
+* border
+
+=== ⭐ qol
+* access-ordered list `.desktop` runner (luajit)
+* emoji menu (jq, xclip)
+* case insensitive
+* fuzzy matching
+* highlight
+  ** further patched by me so it's case-insensitive (thus, matching fuzzy finder & case insensitive patches)
+
+=== 🌍 tweaks
+* line height
+* grid nav
+* center
+* grid
+* xyw
