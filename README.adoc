@@ -1,0 +1,11 @@
+== 📦 repo
+
+repository that holds my packages/forks/etc.
+
+== 📑 instructions
+
+[source,sh]
+```
+cd package/
+sudo make install
+```

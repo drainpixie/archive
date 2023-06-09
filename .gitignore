@@ -1,0 +1,8 @@
+dmenu/dmenu
+dmenu/stest
+dmenu/config.h
+
+**/*.o
+
+**/*.tar.zst
+**/*.tar.gz
