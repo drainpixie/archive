@@ -1,6 +1,6 @@
-== 📦 repo
+== 📚 archive
 
-repository that holds my packages/forks/etc.
+an organized repository of packages, neatly stored
 
 == 📑 instructions
 
