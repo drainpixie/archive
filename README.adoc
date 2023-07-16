@@ -9,3 +9,7 @@ repository that holds my packages/forks/etc.
 cd package/
 sudo make install
 ```
+
+== ❓ why
+
+i'm just too lazy to turn this into a proper arch user repository right now.
